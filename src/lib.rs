@@ -22,9 +22,6 @@ pub fn grayscale(encoded_file: &str) -> String {
   log(&"New image written".into());
 
   let encoded_img = encode(&buffer);
-  let data_url = format!(
-    "data:image/png;base64,{}",
-    encoded_img
-  );
+  let data_url = format!("data:image/png;base64,{}", encoded_img);
   data_url
 }

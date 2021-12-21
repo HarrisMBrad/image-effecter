@@ -11,20 +11,17 @@
  - all will be my merge before merging to master.
  - checkout dev-branch-2 if your additions are more of a new feature.
 
-# NFT Assests to use:
-[Vizcaya-006](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/70326883271192332165747062436501242330189217366649224341641378519048918138881) and ![vizcaya-006](https://lh3.googleusercontent.com/ghXq6hG_2G-ohp5GeUqxd3tI---Jd4q_Hca-1e502QzI5EAlDZBgxh8OEIXJwSNJWmRVsWADfJ2S7wTkReXrsaT57W3XkjGB0og-=w600)
+## NFT Assests to use:
+[Vizcaya-006](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/70326883271192332165747062436501242330189217366649224341641378519048918138881)
 ---
-[Vizcaya](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/70326883271192332165747062436501242330189217366649224341641378511352336744449) and ![vizcaya](https://lh3.googleusercontent.com/mgqIN7B0f2FtpDOXgXIKwiZed3ONLRWK5qUrFNKmmgPiSLozVEvJRka44YHV4YIMIfhZD05uBLLZgWudLtaaou8cEZ9jqfusRn_SuA=w600)
-```
+![vizcaya-006](https://lh3.googleusercontent.com/ghXq6hG_2G-ohp5GeUqxd3tI---Jd4q_Hca-1e502QzI5EAlDZBgxh8OEIXJwSNJWmRVsWADfJ2S7wTkReXrsaT57W3XkjGB0og-=w600)
+---
+[Vizcaya](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/70326883271192332165747062436501242330189217366649224341641378511352336744449)
+---
+![vizcaya](https://lh3.googleusercontent.com/mgqIN7B0f2FtpDOXgXIKwiZed3ONLRWK5qUrFNKmmgPiSLozVEvJRka44YHV4YIMIfhZD05uBLLZgWudLtaaou8cEZ9jqfusRn_SuA=w600)
 
-
-### TODO Features:
+# Write and learn:
  - [Advantages of adopting the Vizcaya strategy]
-Creating Vizcaya
-Understanding cultural ingredients
- - [Working through cultural resistance] 
-Vizcaya Enablement
- - [Crafting discoverable Vizcaya views] 
- - [Workflows] 
-Vizcayanance
+
 brforeal@gmail.com
+

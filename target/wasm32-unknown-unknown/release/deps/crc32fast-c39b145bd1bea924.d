@@ -1,0 +1,11 @@
+C:\Users\brfor\image-effects\target\wasm32-unknown-unknown\release\deps\crc32fast-c39b145bd1bea924.rmeta: C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\lib.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\baseline.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\combine.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\specialized\mod.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\table.rs
+
+C:\Users\brfor\image-effects\target\wasm32-unknown-unknown\release\deps\libcrc32fast-c39b145bd1bea924.rlib: C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\lib.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\baseline.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\combine.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\specialized\mod.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\table.rs
+
+C:\Users\brfor\image-effects\target\wasm32-unknown-unknown\release\deps\crc32fast-c39b145bd1bea924.d: C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\lib.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\baseline.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\combine.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\specialized\mod.rs C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\table.rs
+
+C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\lib.rs:
+C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\baseline.rs:
+C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\combine.rs:
+C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\specialized\mod.rs:
+C:\Users\brfor\.cargo\registry\src\github.com-1ecc6299db9ec823\crc32fast-1.3.0\src\table.rs:

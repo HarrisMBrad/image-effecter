@@ -1,0 +1,1 @@
+{"rustc":4839114316731278000,"features":"[\"default\", \"ticket_mutex\"]","target":17810170692256069056,"profile":3735503092003429423,"path":3266453078373751645,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug\\.fingerprint\\spin-0d3fc4a35353e5b2\\dep-lib-spin"}}],"rustflags":[],"metadata":9016220610436130891,"config":2202906307356721367,"compile_kind":0}
